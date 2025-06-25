@@ -7,129 +7,37 @@
     "website": "https://github.com/NotMyst/altstore-repo",
     "tintColor": "#AF5FE8",
     "featuredApps": [
-        "com.example.myapp",
-        "com.example.anotherapp"
+        "com.notdoppler.EarntoDie2",
     ],
     "apps": [
         {
-            "name": "My Example App",
-            "bundleIdentifier": "com.example.myapp",
-      "developerName": "Example Developer",
-            "subtitle": "An awesome app.",
+            "name": "Earn to die 2",
+            "bundleIdentifier": "com.notdoppler.EarntoDie2",
+            "developerName": "Not Doppler",
+            "subtitle": "This app is from ipaomtk!",
             "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/ab/feccab35-76b9-2ffa-7a6a-40ea9af24707/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/230x0w.webp",
             "tintColor": "#5CA399",
             "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png",
-                "https://example.com/myapp_portrait_screenshot2.png",
-                {
-                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-                    "width": 2556,
-                    "height": 1179
-                }
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleVideo113/v4/80/d8/28/80d82867-e13e-0429-934b-cfb7e1d6baf2/Job0872f77d-8aa7-46c4-ae7f-9748171814a6-103951649-PreviewImage_preview_image_nonvideo_sdr-Time1568518163641.png/313x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d2/b0/e7/d2b0e787-494a-ffbc-06b1-c120d12b0bb4/pr_source.png/313x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b7/71/9f/b7719fa1-6874-9602-eb81-96ab925f951e/pr_source.png/313x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/56/51/4b/56514b72-f994-e42c-0b48-fabcb5b467bd/pr_source.png/313x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c7/da/20/c7da20c4-946e-cd12-d377-d5afb7de00c6/pr_source.png/313x0w.webp",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/8c/37/a28c37f4-8cbe-2774-f26a-5c547cc762ef/pr_source.png/313x0w.webp",
             ],
             "versions": [
                 {
-                    "version": "1.1",
-          "buildVersion": "2",
-          "date": "2022-05-01T09:00:00-08:00",
+                    "version": "1.4.55",
+                    "buildVersion": "1",
+                    "date": "2024-05-09",
                     "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
+                    "downloadURL": "https://file.ipaomtk.com/ipa/EarntoDie2.ipa",
                     "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 },
-                {
-                    "version": "1.0",
-          "buildVersion": "1",
-          "date": "2022-03-16T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
-                    "localizedDescription": "Initial release."
-                }
             ],
-            "appPermissions": {
-                "entitlements": [
-                    "com.apple.security.application-groups",
-                    "com.apple.developer.siri"
-                ],
-                "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera to take photos.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
-                }
-            }
         },
-        {
-            "name": "Another Example App",
-            "bundleIdentifier": "com.example.anotherapp",
-      "marketplaceID": "9876543210",
-      "developerName": "Example Developer",
-            "subtitle": "Another awesome app.",
-            "localizedDescription": "This is another awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
-            "tintColor": "#3660A2",
-            "screenshots": {
-                "iphone": [
-                    "https://example.com/anotherapp_portrait_1.png",
-                    "https://example.com/anotherapp_portrait_2.png",
-                    {
-                        "imageURL": "https://example.com/anotherapp_landscape.png",
-                        "width": 2556,
-                        "height": 1179
-                    }
-                ],
-                "ipad": [
-                    {
-                        "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
-                        "width": 1668,
-                        "height": 2388
-                    },
-                    {
-                        "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
-                        "width": 2388,
-                        "height": 1668
-                    }
-                ]
-            },
-            "versions": [
-                {
-                    "version": "1.2",
-          "buildVersion": "3",
-          "date": "2022-06-21T09:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
-                    "localizedDescription": "Bug fixes and performance improvements.",
-                    "size": 81514,
-                    "minOSVersion": "13.0"
-                },
-                {
-                    "version": "1.1",
-          "buildVersion": "2",
-          "date": "2022-04-15T10:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
-                    "localizedDescription": "New features!",
-                    "size": 81364,
-                    "minOSVersion": "13.0",
-                    "maxOSVersion": "16.3"
-                },
-                {
-                    "version": "1.0",
-          "buildVersion": "1",
-          "date": "2022-02-02T07:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
-                    "localizedDescription": "Initial release.",
-                    "size": 79821
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [
-                    "com.apple.developer.healthkit",
-                    "com.apple.developer.game-center"
-                ],
-                "privacy": {
-                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
-                }
-            }
-        }
     ],
     "news": [
         {
