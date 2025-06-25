@@ -13,6 +13,7 @@
         {
             "name": "Earn to die 2",
             "bundleIdentifier": "com.notdoppler.EarntoDie2",
+            "marketplaceID": "1",
             "developerName": "Not Doppler",
             "subtitle": "This app is from ipaomtk!",
             "localizedDescription": "This is an awesome app only available on AltStore.",
