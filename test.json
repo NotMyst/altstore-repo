@@ -35,7 +35,7 @@
           "buildVersion": "2",
           "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "https://file.ipaomtk.com/ipa/EarntoDie2.ipa",
+                    "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
                     "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 },
@@ -44,7 +44,7 @@
           "buildVersion": "1",
           "date": "2022-03-16T07:00:00-08:00",
                     "size": 10000000,
-                    "downloadURL": "https://file.ipaomtk.com/ipa/EarntoDie2.ipa",
+                    "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
                     "localizedDescription": "Initial release."
                 }
             ],
@@ -97,7 +97,7 @@
                     "version": "1.2",
           "buildVersion": "3",
           "date": "2022-06-21T09:00:00-08:00",
-                    "downloadURL": "https://file.ipaomtk.com/ipa/EarntoDie2.ipa",
+                    "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
                     "localizedDescription": "Bug fixes and performance improvements.",
                     "size": 81514,
                     "minOSVersion": "13.0"
@@ -106,7 +106,7 @@
                     "version": "1.1",
           "buildVersion": "2",
           "date": "2022-04-15T10:00:00-08:00",
-                    "downloadURL": "https://file.ipaomtk.com/ipa/EarntoDie2.ipa",
+                    "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
                     "localizedDescription": "New features!",
                     "size": 81364,
                     "minOSVersion": "13.0",
@@ -116,7 +116,7 @@
                     "version": "1.0",
           "buildVersion": "1",
           "date": "2022-02-02T07:00:00-08:00",
-                    "downloadURL": "https://file.ipaomtk.com/ipa/EarntoDie2.ipa",
+                    "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
                     "localizedDescription": "Initial release.",
                     "size": 79821
                 }
