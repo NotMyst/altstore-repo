@@ -23,8 +23,8 @@
             ],
             "versions": [
                 {
-                    "version": "1.4.55",
-                    "buildVersion": "1.4.55",
+                    "version": "1.0",
+                    "buildVersion": "2",
                     "date": "2022-03-16T07:00:00-08:00",
                     "size": 10000000,
                     "downloadURL": "https://cbruegg.com/static/emptypipe/dist/d22c5cd7-70bd-4e5f-b092-7031613938b8/",
