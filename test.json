@@ -38,16 +38,41 @@
 "category": 
 "games",
 "screenshots": 
-[...],
+[
+],
 "versions": 
-[...],
-"appPermissions": 
-{...},
-"patreon": 
-{...}
+[
+{
+"downloadURL": 
+"https://file.ipaomtk.com/ipa/EarntoDie2.ipa",
+"size": 
+69900000,
+"version": 
+"1.4.55",
+"buildVersion": 
+"",
+"date": 
+"2024-05-08T20:00:00+02:00",
+"localizedDescription": 
+"General fixes and improvements",
+"minOSVersion": 
+"12.0"
 }
 ],
-"news": 
+"appPermissions": 
+{
+"entitlements": 
 [
-]
-}
+],
+"privacy": 
+{
+"NSCalendarsUsageDescription": 
+"Adding events",
+"NSCameraUsageDescription": 
+"Taking selfies",
+"NSMotionUsageDescription ": 
+"Interactive ad controls",
+"NSPhotoLibraryAddUsageDescription": 
+"The app need access to your photo library to save image",
+"NSPhotoLibraryUsageDescription": 
+"Taking selfies"
