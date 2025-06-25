@@ -1,53 +1,64 @@
 {
-    "name": "Spook788's Repo",
-    "subtitle": "Cracked / tweaked app heaven",
-    "description": "A repo of filled with cracked apps. I plan to update this often and maintain it",
-    "iconURL": "https://raw.githubusercontent.com/NotMyst/altstore-repo/refs/heads/main/assets/flight.png",
-    "headerURL": "https://raw.githubusercontent.com/NotMyst/altstore-repo/refs/heads/main/assets/flight.png",
-    "website": "https://github.com/NotMyst/altstore-repo",
-    "tintColor": "#AF5FE8",
-    "featuredApps": [
-        "com.notdoppler.EarntoDie2",
-    ],
-    "apps": [
-        {
-            "name": "Earn to die 2",
-            "bundleIdentifier": "com.notdoppler.EarntoDie2",
-            "marketplaceID": "1",
-            "developerName": "Not Doppler",
-            "subtitle": "This app is from ipaomtk!",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/ab/feccab35-76b9-2ffa-7a6a-40ea9af24707/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/230x0w.webp",
-            "tintColor": "#5CA399",
-            "screenshots": [
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleVideo113/v4/80/d8/28/80d82867-e13e-0429-934b-cfb7e1d6baf2/Job0872f77d-8aa7-46c4-ae7f-9748171814a6-103951649-PreviewImage_preview_image_nonvideo_sdr-Time1568518163641.png/313x0w.webp",
-                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d2/b0/e7/d2b0e787-494a-ffbc-06b1-c120d12b0bb4/pr_source.png/313x0w.webp",
-                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b7/71/9f/b7719fa1-6874-9602-eb81-96ab925f951e/pr_source.png/313x0w.webp",
-                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/56/51/4b/56514b72-f994-e42c-0b48-fabcb5b467bd/pr_source.png/313x0w.webp",
-                "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c7/da/20/c7da20c4-946e-cd12-d377-d5afb7de00c6/pr_source.png/313x0w.webp",
-                "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/8c/37/a28c37f4-8cbe-2774-f26a-5c547cc762ef/pr_source.png/313x0w.webp",
-            ],
-            "versions": [
-                {
-                    "version": "1.4.55",
-                    "buildVersion": "1",
-                    "date": "2024-05-09",
-                    "size": 20000000,
-                    "downloadURL": "https://file.ipaomtk.com/ipa/Bad-Piggies-IPAOMTK.COM.ipa",
-                    "localizedDescription": "General fixes and improvements",
-                    "minOSVersion": "12.0"
-                },
-            ],
-        },
-    ],
-    "news": [
-        {
-            "title": "Released!",
-            "identifier": "released",
-            "caption": "Introducing a new feature in AltStore!",
-            "date": "2025-06-25",
-            "tintColor": "#5CA399",
-            "notify": true,
-        },
-    ]
+"name": 
+"Earn to Die 2",
+"bundleIdentifier": 
+"com.notdoppler.EarntoDie2",
+"marketplaceID": 
+"12345678",
+"developerName": 
+"Not Doppler",
+"subtitle": 
+"An awesome app.",
+"localizedDescription": 
+"This is an awesome app only available on AltStore.",
+"iconURL": 
+"https://i.imgur.com/dnuhBSp.png",
+"tintColor": 
+"#665da1",
+"category": 
+"games",
+"screenshots": 
+[
+],
+"versions": 
+[
+{
+"downloadURL": 
+"https://file.ipaomtk.com/ipa/EarntoDie2.ipa",
+"size": 
+69900000,
+"version": 
+"1.4.55",
+"buildVersion": 
+"",
+"date": 
+"2024-05-08T20:00:00+02:00",
+"localizedDescription": 
+"General fixes and improvements",
+"minOSVersion": 
+"12.0"
+}
+],
+"appPermissions": 
+{
+"entitlements": 
+[
+],
+"privacy": 
+{
+"NSCalendarsUsageDescription": 
+"Adding events",
+"NSCameraUsageDescription": 
+"Taking selfies",
+"NSMotionUsageDescription ": 
+"Interactive ad controls",
+"NSPhotoLibraryAddUsageDescription": 
+"The app need access to your photo library to save image",
+"NSPhotoLibraryUsageDescription": 
+"Taking selfies"
+}
+},
+"patreon": 
+{
+}
 }
